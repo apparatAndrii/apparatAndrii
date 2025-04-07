@@ -3,7 +3,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=apparatAndrii&layout=compact)
 
 ## My content management system
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himmelforce&repo=hims-create)](https://github.com/Himmelforce/hims-create))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himmelforce&repo=hims-create&show_owner)](https://github.com/Himmelforce/hims-create))
 
 ## My stack
 
