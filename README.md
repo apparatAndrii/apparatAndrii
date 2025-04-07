@@ -4,15 +4,16 @@
 
 ## My stack
 
-![HTML](https://img.icons8.com/ios/50/000000/html-5.png) ![CSS](https://img.icons8.com/ios/50/000000/css3.png) ![Sass](https://img.icons8.com/ios/50/000000/sass.png) ![Bootstrap](https://img.icons8.com/ios/50/000000/bootstrap.png) ![Tailwind CSS](https://img.icons8.com/ios/50/000000/tailwindcss.png)
+![HTML](https://cdn-icons-png.flaticon.com/512/732/732212.png) ![CSS](https://cdn-icons-png.flaticon.com/512/732/732190.png) ![Sass](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Bootstrap](https://cdn-icons-png.flaticon.com/512/732/732298.png) ![Tailwind CSS](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
-![JavaScript](https://img.icons8.com/ios/50/000000/javascript.png) ![TypeScript](https://img.icons8.com/ios/50/000000/typescript.png) ![Python](https://img.icons8.com/ios/50/000000/python.png) ![PHP](https://img.icons8.com/ios/50/000000/php.png)
+![JavaScript](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![TypeScript](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Python](https://cdn-icons-png.flaticon.com/512/919/919830.png) ![PHP](https://cdn-icons-png.flaticon.com/512/919/919828.png)
 
-![React](https://img.icons8.com/ios/50/000000/react.png) ![Node.js](https://img.icons8.com/ios/50/000000/nodejs.png) ![Express](https://img.icons8.com/ios/50/000000/express.png) ![Next.js](https://img.icons8.com/ios/50/000000/next.js.png) ![Vite](https://img.icons8.com/ios/50/000000/vite.png) ![Flask](https://img.icons8.com/ios/50/000000/flask.png) ![Laravel](https://img.icons8.com/ios/50/000000/laravel.png)
+![React](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Node.js](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Express](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![Next.js](https://cdn-icons-png.flaticon.com/512/919/919828.png) ![Vite](https://cdn-icons-png.flaticon.com/512/919/919830.png) ![Flask](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Laravel](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
-![MySQL](https://img.icons8.com/ios/50/000000/mysql.png) ![MongoDB](https://img.icons8.com/ios/50/000000/mongodb.png) ![Redis](https://img.icons8.com/ios/50/000000/redis.png)
+![MySQL](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![MongoDB](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Redis](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
-![Git](https://img.icons8.com/ios/50/000000/git.png) ![Docker](https://img.icons8.com/ios/50/000000/docker.png) ![CI/CD](https://img.icons8.com/ios/50/000000/ci-cd.png) ![Jenkins](https://img.icons8.com/ios/50/000000/jenkins.png) ![Nginx](https://img.icons8.com/ios/50/000000/nginx.png) ![Linux](https://img.icons8.com/ios/50/000000/linux.png)
 
-![WebSocket](https://img.icons8.com/ios/50/000000/websocket.png) ![REST](https://img.icons8.com/ios/50/000000/rest.png) ![Postman](https://img.icons8.com/ios/50/000000/postman.png) ![Swagger](https://img.icons8.com/ios/50/000000/swagger.png) ![Figma](https://img.icons8.com/ios/50/000000/figma.png) ![Redux](https://img.icons8.com/ios/50/000000/redux.png) ![Jest](https://img.icons8.com/ios/50/000000/jest.png) ![Grafana](https://img.icons8.com/ios/50/000000/grafana.png) ![Prometheus](https://img.icons8.com/ios/50/000000/prometheus.png) ![Vault](https://img.icons8.com/ios/50/000000/vault.png)
+![Git](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![Docker](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![CI/CD](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Jenkins](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![Nginx](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Linux](https://cdn-icons-png.flaticon.com/512/919/919825.png)
+
+![WebSocket](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![REST](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Postman](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Swagger](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![Figma](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Redux](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Jest](https://cdn-icons-png.flaticon.com/512/919/919827.png) ![Grafana](https://cdn-icons-png.flaticon.com/512/919/919826.png) ![Prometheus](https://cdn-icons-png.flaticon.com/512/919/919825.png) ![Vault](https://cdn-icons-png.flaticon.com/512/919/919827.png)
 
